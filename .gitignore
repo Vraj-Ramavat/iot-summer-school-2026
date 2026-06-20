@@ -1,0 +1,21 @@
+# Compiled output files
+*.hex
+*.elf
+*.bin
+*.eep
+*.lst
+*.map
+*.sym
+*.lss
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE config and build folders
+.vscode/
+build/
+.arduino/
+*.o
+*.d
