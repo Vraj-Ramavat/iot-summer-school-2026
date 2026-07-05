@@ -45,3 +45,7 @@ Potentiometer-Controlled LED Blink Rate with Serial Logging
 2. **Blink rate does not change:** Verify that the potentiometer middle pin is connected to **A0** (not digital pin 0) and the outer pins are securely connected to 5V and GND.
 3. **No output in Serial Monitor:** Ensure the Serial Monitor baud rate is set to **9600 baud** in the bottom-right dropdown of the window.
 4. **Upload fails:** Check if the correct board model and COM Port are selected in the Arduino IDE. Try unplugging and re-plugging the USB cable.
+
+## Wokwi Simulation Link
+Paste your Wokwi simulation link here once you create it:
+- **Simulation Link:** [Insert Wokwi Link Here](https://wokwi.com/...)

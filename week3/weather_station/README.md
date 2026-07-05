@@ -22,3 +22,7 @@ Data is logged to the Serial Monitor every 2 seconds in CSV format:
 timestamp_ms,temperature_C,temperature_F,humidity_percent
 2000,28.4,83.1,65.2
 ```
+
+## Wokwi Simulation Link
+Paste your Wokwi simulation link here once you create it:
+- **Simulation Link:** [Insert Wokwi Link Here](https://wokwi.com/...)
