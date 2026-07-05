@@ -18,4 +18,4 @@ Displays 'ENTER PIN:' on LCD. Inputs are displayed as asterisks. If '1234' is en
 
 ## Wokwi Simulation Link
 Paste your Wokwi simulation link here once you create it:
-- **Simulation Link:** [Insert Wokwi Link Here](https://wokwi.com/...)
+- **Simulation Link:** https://wokwi.com/projects/new/arduino-uno
